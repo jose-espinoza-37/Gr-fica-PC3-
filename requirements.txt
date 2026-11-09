@@ -1,0 +1,12 @@
+Para que se pueda ejecutar:
+
+
+Divisor de audio
+
+dependencias:
+pip install pydub
+winget install Gyan.FFmpeg
+
+
+
+
