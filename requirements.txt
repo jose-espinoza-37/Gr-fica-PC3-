@@ -1,12 +1,16 @@
 Para que se pueda ejecutar:
 
 
-Divisor de audio
+Para dividir_audio.py
 
 dependencias:
+
+Si se usa python hasta la version 3.12
 pip install pydub
 winget install Gyan.FFmpeg
 
+Si se usa python con versiones superiores a 3.12
 
+python -m pip install audioop-lts
 
 
