@@ -14,3 +14,5 @@ Si se usa python con versiones superiores a 3.12
 python -m pip install audioop-lts
 
 
+Para el espectrograma:
+pip install librosa numpy matplotlib soundfile
